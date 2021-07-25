@@ -1,15 +1,16 @@
 /**
- * Khối 1: Input
- * salary1Day
- *workDays
  * 
- * Khối 2: Các bước xử lý
- * B1: Tạo và gán giá trị
- * B2: salary =  salary1Day*workDays
+ * salary1D 
+//  gvblier 
+//  e rgyier  f
+//  4 rg weg e
+//  ay
+ *workCác bgrd h
+ 
+ ước xử lý
+ * B1: Tạo và g
  * 
- * Khối 3: Output
- * 
- * totalSalary
+var x = "helllloooo"
  * 
  */
 
