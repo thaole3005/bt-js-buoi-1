@@ -1,15 +1,21 @@
 /**
+
+//làm tiếp bt4
  * Khối 1: Input
- * salary1Day
+ * salary1ttẻ 
+ yju 5
+ 
+ ey hDay
  *workDays
  * 
  * Khối 2: Các bước xử lý
- * B1: Tạo và gán giá trị
- * B2: salary =  salary1Day*workDays
+ * B1: Tạoá 5465ru m5rttrị
+ * B2: salaryh 
+ rhbrtd ry =  salary1Day*workDays
+ * put
  * 
- * Khối 3: Output
- * 
- * totalSalary
+ * totalSrge 
+ alary
  * 
  */
 
