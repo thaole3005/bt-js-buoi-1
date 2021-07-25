@@ -1,4 +1,6 @@
 /**
+
+//làm tiếp bt4
  * Khối 1: Input
  * salary1Day
  *workDays
