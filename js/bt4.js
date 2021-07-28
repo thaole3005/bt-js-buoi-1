@@ -11,7 +11,7 @@
  * Khối 3: Output
  * 
  * chuVi
- * 
+ * dienTich
  */
 
 var chieuDai = 10;
